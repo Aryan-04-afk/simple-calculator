@@ -1,6 +1,6 @@
 """Simple command-line calculator."""
 
-WELCOME_MESSAGE = "Welcome to Calculator v2 - now faster!"
+WELCOME_MESSAGE = "Welcome to Calculator v2 - Let's do some math!"
 
 
 def add(a, b):
